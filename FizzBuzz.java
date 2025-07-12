@@ -1,4 +1,4 @@
-package buzz
+package fizz
 
 public class FizzBuzz {
 
